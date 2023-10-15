@@ -1,8 +1,8 @@
 # Santander Bootcamp 2023
 
-Java RESTful API criada para o Santander Bootcamp 2023.
+Java RESTful API created for Santander Bootcamp 2023.
 
-## Diagrama de Classes
+## Class Diagram
 
 ```mermaid
 classDiagram
